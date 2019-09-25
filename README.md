@@ -1,7 +1,7 @@
-nikto
+nitko
 =====
 
-Nikto web server scanner  - https://cirt.net/Nikto2
+Nitko web server scanner  - https://cirt.net/Nikto2
 
 Full documentation - https://cirt.net/nikto2-docs/
 
